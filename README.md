@@ -1,2 +1,2 @@
 # Chatbot
-chatbot 코드 모음
+chatbot 코드 그냥 쌓기 
